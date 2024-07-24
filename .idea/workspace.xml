@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02daf358-06cc-445d-949f-a67b39da77fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/easy/Problem_2325_DecodeMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/Problem_2395_FindSubarraysWithEqualSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/Problem_819_MostCommonWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/Problem_3153_SumDigitDifferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/Problem_3153_SumDigitDifferences.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +37,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Problem_205_IsIsomorphic.executor": "Run",
+    "Application.Problem_2325_DecodeMessage.executor": "Run",
+    "Application.Problem_2395_FindSubarraysWithEqualSum.executor": "Run",
     "Application.Problem_3146_FindPermutationDifference.executor": "Run",
     "Application.Problem_3153_SumDigitDifferences.executor": "Run",
+    "Application.Problem_819_MostCommonWord.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "extract.method.default.visibility": "private",
@@ -52,9 +57,22 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Problem_3153_SumDigitDifferences">
-    <configuration name="Problem_205_IsIsomorphic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem_205_IsIsomorphic" />
+  <component name="RunManager" selected="Application.Problem_819_MostCommonWord">
+    <configuration name="Problem_2325_DecodeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem_2325_DecodeMessage" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_2395_FindSubarraysWithEqualSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem_2395_FindSubarraysWithEqualSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -92,11 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_819_MostCommonWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem_819_MostCommonWord" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_819_MostCommonWord" />
+        <item itemvalue="Application.Problem_2395_FindSubarraysWithEqualSum" />
+        <item itemvalue="Application.Problem_2325_DecodeMessage" />
         <item itemvalue="Application.Problem_3153_SumDigitDifferences" />
         <item itemvalue="Application.Problem_3146_FindPermutationDifference" />
-        <item itemvalue="Application.Problem_205_IsIsomorphic" />
       </list>
     </recent_temporary>
   </component>
@@ -120,7 +153,9 @@
       <workItem from="1721616780288" duration="2338000" />
       <workItem from="1721639166185" duration="26000" />
       <workItem from="1721669831696" duration="795000" />
-      <workItem from="1721713820161" duration="2650000" />
+      <workItem from="1721713820161" duration="3054000" />
+      <workItem from="1721793632003" duration="1398000" />
+      <workItem from="1721807796659" duration="1844000" />
     </task>
     <servers />
   </component>
