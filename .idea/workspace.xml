@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02daf358-06cc-445d-949f-a67b39da77fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/easy/Problem_2325_DecodeMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/Problem_2395_FindSubarraysWithEqualSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/Problem_819_MostCommonWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/Problem_970_PowerfulIntegers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,7 @@
     "Application.Problem_3146_FindPermutationDifference.executor": "Run",
     "Application.Problem_3153_SumDigitDifferences.executor": "Run",
     "Application.Problem_819_MostCommonWord.executor": "Run",
+    "Application.Problem_970_PowerfulIntegers.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "extract.method.default.visibility": "private",
@@ -57,7 +56,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Problem_819_MostCommonWord">
+  <component name="RunManager" selected="Application.Problem_970_PowerfulIntegers">
     <configuration name="Problem_2325_DecodeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.Problem_2325_DecodeMessage" />
       <module name="leetcode" />
@@ -73,19 +72,6 @@
     </configuration>
     <configuration name="Problem_2395_FindSubarraysWithEqualSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.Problem_2395_FindSubarraysWithEqualSum" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_3146_FindPermutationDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem_3146_FindPermutationDifference" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -123,13 +109,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_970_PowerfulIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem_970_PowerfulIntegers" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_970_PowerfulIntegers" />
         <item itemvalue="Application.Problem_819_MostCommonWord" />
         <item itemvalue="Application.Problem_2395_FindSubarraysWithEqualSum" />
         <item itemvalue="Application.Problem_2325_DecodeMessage" />
         <item itemvalue="Application.Problem_3153_SumDigitDifferences" />
-        <item itemvalue="Application.Problem_3146_FindPermutationDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +154,9 @@
       <workItem from="1721669831696" duration="795000" />
       <workItem from="1721713820161" duration="3054000" />
       <workItem from="1721793632003" duration="1398000" />
-      <workItem from="1721807796659" duration="1844000" />
+      <workItem from="1721807796659" duration="2145000" />
+      <workItem from="1721830340202" duration="571000" />
+      <workItem from="1721878284128" duration="2550000" />
     </task>
     <servers />
   </component>
