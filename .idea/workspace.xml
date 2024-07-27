@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02daf358-06cc-445d-949f-a67b39da77fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/medium/Problem_970_PowerfulIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/Problem_1207_UniqueNumberOfOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/Problem_1365_HowManyNumberAreSmallerThanTheCurrentNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/Problem_1417_ReformatTheString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,33 +34,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Problem_205_IsIsomorphic.executor": "Run",
-    "Application.Problem_2325_DecodeMessage.executor": "Run",
-    "Application.Problem_2395_FindSubarraysWithEqualSum.executor": "Run",
-    "Application.Problem_3146_FindPermutationDifference.executor": "Run",
-    "Application.Problem_3153_SumDigitDifferences.executor": "Run",
-    "Application.Problem_819_MostCommonWord.executor": "Run",
-    "Application.Problem_970_PowerfulIntegers.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "extract.method.default.visibility": "private",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "E:/leetcode/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Problem_1207_UniqueNumberOfOccurrences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_1365_HowManyNumberAreSmallerThanTheCurrentNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_205_IsIsomorphic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_2325_DecodeMessage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_2395_FindSubarraysWithEqualSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_3146_FindPermutationDifference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_3153_SumDigitDifferences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_819_MostCommonWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_970_PowerfulIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;E:/leetcode/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Problem_970_PowerfulIntegers">
-    <configuration name="Problem_2325_DecodeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem_2325_DecodeMessage" />
+}</component>
+  <component name="RunManager" selected="Application.Problem_1417_ReformatTheString">
+    <configuration name="Problem_1207_UniqueNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem_1207_UniqueNumberOfOccurrences" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_2395_FindSubarraysWithEqualSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem_2395_FindSubarraysWithEqualSum" />
+    <configuration name="Problem_1365_HowManyNumberAreSmallerThanTheCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem_1365_HowManyNumberAreSmallerThanTheCurrentNumber" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -83,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem_3153_SumDigitDifferences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem_3153_SumDigitDifferences" />
+    <configuration name="Problem_1417_ReformatTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem_1417_ReformatTheString" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium.*" />
+          <option name="PATTERN" value="easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_1417_ReformatTheString" />
+        <item itemvalue="Application.Problem_1365_HowManyNumberAreSmallerThanTheCurrentNumber" />
+        <item itemvalue="Application.Problem_1207_UniqueNumberOfOccurrences" />
         <item itemvalue="Application.Problem_970_PowerfulIntegers" />
         <item itemvalue="Application.Problem_819_MostCommonWord" />
-        <item itemvalue="Application.Problem_2395_FindSubarraysWithEqualSum" />
-        <item itemvalue="Application.Problem_2325_DecodeMessage" />
-        <item itemvalue="Application.Problem_3153_SumDigitDifferences" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +160,10 @@
       <workItem from="1721793632003" duration="1398000" />
       <workItem from="1721807796659" duration="2145000" />
       <workItem from="1721830340202" duration="571000" />
-      <workItem from="1721878284128" duration="2550000" />
+      <workItem from="1721878284128" duration="2736000" />
+      <workItem from="1721895729164" duration="28000" />
+      <workItem from="1722016314710" duration="1450000" />
+      <workItem from="1722063441901" duration="1612000" />
     </task>
     <servers />
   </component>
