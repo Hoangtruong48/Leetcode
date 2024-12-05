@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02daf358-06cc-445d-949f-a67b39da77fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/easy/Problem_1207_UniqueNumberOfOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/Problem_1365_HowManyNumberAreSmallerThanTheCurrentNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/Problem_1417_ReformatTheString.java" afterDir="false" />
+    <list default="true" id="02daf358-06cc-445d-949f-a67b39da77fd" name="Changes" comment="23/10/24 1 medium 3 easy">
+      <change afterPath="$PROJECT_DIR$/cmd.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chua_xong/Can.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/Problem_2563.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,15 +36,38 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Bit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PokerHandRank.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_1006_ClumsyFactorial.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem_1207_UniqueNumberOfOccurrences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_121_BestTimeToBuyAndSellStock.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem_1365_HowManyNumberAreSmallerThanTheCurrentNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_1417_ReformatTheString.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_179_LargestNumber (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_179_LargestNumber (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_179_LargestNumber (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_179_LargestNumber (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_179_LargestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_1921.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem_205_IsIsomorphic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_2220_MinimumBitFlipsToConvertNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem_2325_DecodeMessage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_238_MovieZeros.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem_2395_FindSubarraysWithEqualSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_2563.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem_3146_FindPermutationDifference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_3151_ArraySpecial_I.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem_3153_SumDigitDifferences.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_326_PowerOfThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_389_FindTheDifference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_733_FloodFill.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem_819_MostCommonWord.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_877_GameStone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Problem_877_GameStone_chuaxong.executor&quot;: &quot;Run&quot;,
     &quot;Application.Problem_970_PowerfulIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sol2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sotatek.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestBuildAndRun.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
@@ -60,61 +83,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Problem_1417_ReformatTheString">
-    <configuration name="Problem_1207_UniqueNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem_1207_UniqueNumberOfOccurrences" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_1365_HowManyNumberAreSmallerThanTheCurrentNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem_1365_HowManyNumberAreSmallerThanTheCurrentNumber" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_1417_ReformatTheString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem_1417_ReformatTheString" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_819_MostCommonWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.Problem_819_MostCommonWord" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Problem_970_PowerfulIntegers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.Problem_970_PowerfulIntegers" />
+  <component name="RunManager" selected="Application.Problem_2563">
+    <configuration name="Problem_1921" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem_1921" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -126,13 +97,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Problem_2563" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.Problem_2563" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_3151_ArraySpecial_I" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.Problem_3151_ArraySpecial_I" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chua_nop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem_733_FloodFill" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chua_nop.Problem_733_FloodFill" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chua_nop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBuildAndRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.TestBuildAndRun" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem_1417_ReformatTheString" />
-        <item itemvalue="Application.Problem_1365_HowManyNumberAreSmallerThanTheCurrentNumber" />
-        <item itemvalue="Application.Problem_1207_UniqueNumberOfOccurrences" />
-        <item itemvalue="Application.Problem_970_PowerfulIntegers" />
-        <item itemvalue="Application.Problem_819_MostCommonWord" />
+        <item itemvalue="Application.Problem_2563" />
+        <item itemvalue="Application.Problem_1921" />
+        <item itemvalue="Application.Problem_733_FloodFill" />
+        <item itemvalue="Application.Problem_3151_ArraySpecial_I" />
+        <item itemvalue="Application.TestBuildAndRun" />
       </list>
     </recent_temporary>
   </component>
@@ -163,8 +186,105 @@
       <workItem from="1721878284128" duration="2736000" />
       <workItem from="1721895729164" duration="28000" />
       <workItem from="1722016314710" duration="1450000" />
-      <workItem from="1722063441901" duration="1612000" />
+      <workItem from="1722063441901" duration="2253000" />
+      <workItem from="1722481427571" duration="2694000" />
+      <workItem from="1722612524137" duration="917000" />
+      <workItem from="1722674725353" duration="10000" />
+      <workItem from="1723121750791" duration="105000" />
+      <workItem from="1723127537342" duration="641000" />
+      <workItem from="1723144098711" duration="22000" />
+      <workItem from="1723205864558" duration="797000" />
+      <workItem from="1723558469898" duration="48000" />
+      <workItem from="1723866592505" duration="165000" />
+      <workItem from="1726062551446" duration="2457000" />
+      <workItem from="1726103442372" duration="35000" />
+      <workItem from="1726650602348" duration="3169000" />
+      <workItem from="1726709264137" duration="4268000" />
+      <workItem from="1726821476692" duration="4552000" />
+      <workItem from="1727074884344" duration="966000" />
+      <workItem from="1727230506446" duration="1524000" />
+      <workItem from="1727234159016" duration="593000" />
+      <workItem from="1727257723558" duration="2431000" />
+      <workItem from="1727274038425" duration="6000" />
+      <workItem from="1727274085327" duration="21000" />
+      <workItem from="1727312152820" duration="21000" />
+      <workItem from="1727412830453" duration="625000" />
+      <workItem from="1727688218664" duration="2076000" />
+      <workItem from="1727706474978" duration="1851000" />
+      <workItem from="1727744510238" duration="46000" />
+      <workItem from="1727774847396" duration="2303000" />
+      <workItem from="1728464837602" duration="1253000" />
+      <workItem from="1728613425505" duration="4851000" />
+      <workItem from="1728886974281" duration="1248000" />
+      <workItem from="1728888261634" duration="3644000" />
+      <workItem from="1728892338107" duration="4199000" />
+      <workItem from="1728953551487" duration="1691000" />
+      <workItem from="1728968768496" duration="36000" />
+      <workItem from="1729054064820" duration="3226000" />
+      <workItem from="1729126632376" duration="2068000" />
+      <workItem from="1729220313587" duration="6431000" />
+      <workItem from="1729587865071" duration="3164000" />
+      <workItem from="1729672449259" duration="2323000" />
+      <workItem from="1729840235598" duration="1319000" />
+      <workItem from="1730262887652" duration="2148000" />
+      <workItem from="1730301223795" duration="197000" />
+      <workItem from="1731481947762" duration="1183000" />
+      <workItem from="1731483857737" duration="1411000" />
+      <workItem from="1731651459805" duration="1740000" />
+      <workItem from="1732869768473" duration="825000" />
+      <workItem from="1733296319008" duration="131000" />
+      <workItem from="1733300675622" duration="2753000" />
+      <workItem from="1733306092173" duration="165000" />
     </task>
+    <task id="LOCAL-00001" summary="problem 2220 110924">
+      <option name="closed" value="true" />
+      <created>1726067571888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726067571888</updated>
+    </task>
+    <task id="LOCAL-00002" summary="problem 179 medium sort two number largest">
+      <option name="closed" value="true" />
+      <created>1726652754068</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726652754068</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add problem 19/9 and 20/9">
+      <option name="closed" value="true" />
+      <created>1726826135378</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726826135378</updated>
+    </task>
+    <task id="LOCAL-00004" summary="23/09/24 biết làm mỗi bài dễ@@">
+      <option name="closed" value="true" />
+      <created>1727075949613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727075949613</updated>
+    </task>
+    <task id="LOCAL-00005" summary="18/10/24 lười quá">
+      <option name="closed" value="true" />
+      <created>1729222836147</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729222836147</updated>
+    </task>
+    <task id="LOCAL-00006" summary="23/10/24 1 medium 3 easy">
+      <option name="closed" value="true" />
+      <created>1729674120907</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1729674120908</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,5 +300,14 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="problem 2220 110924" />
+    <MESSAGE value="problem 179 medium sort two number largest" />
+    <MESSAGE value="add problem 19/9 and 20/9" />
+    <MESSAGE value="23/09/24 biết làm mỗi bài dễ@@" />
+    <MESSAGE value="18/10/24 lười quá" />
+    <MESSAGE value="23/10/24 1 medium 3 easy" />
+    <option name="LAST_COMMIT_MESSAGE" value="23/10/24 1 medium 3 easy" />
   </component>
 </project>
