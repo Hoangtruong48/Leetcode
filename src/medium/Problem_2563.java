@@ -35,6 +35,7 @@ public class Problem_2563 {
         }
         return res;
     }
+
     public static int binaSearchFindPositionLessThanToX(int[] arr, int l, int r, int x) {
         int res = -1;
         while (l <= r) {
@@ -48,6 +49,7 @@ public class Problem_2563 {
         }
         return res;
     }
+
     public static long countFairPairs(int[] nums, int lower, int upper) {
         Arrays.sort(nums);
         long res = 0;
@@ -63,8 +65,9 @@ public class Problem_2563 {
         }
         return res;
     }
+
     public static void main(String[] args) {
-        System.out.println(countFairPairs(new int[]{0,1,7,4,4,5}, 3, 6));
+        System.out.println(countFairPairs(new int[]{0, 1, 7, 4, 4, 5}, 3, 6));
 
     }
 }
